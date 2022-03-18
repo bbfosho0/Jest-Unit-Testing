@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "Practice with the Jest framework for JavaScript Unit Testing.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
